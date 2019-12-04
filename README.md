@@ -22,10 +22,16 @@ SourceCount = [];
 sample_length = length(Sample_r);
 
 % 표본의 개수 결정
+
+
 LearningPhase_array = 1:10:10^5;
 
+
+
 % 카운팅 솔트
+
 for idx_learning = 1:length(LearningPhase_array)
+
     LearningPhase = LearningPhase_array(idx_learning);
     
     for idx = 1:LearningPhase
