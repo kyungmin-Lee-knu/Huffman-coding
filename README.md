@@ -5,10 +5,13 @@
 
 
 % 기존값과의 충돌 방지를 위한 초기화
+
 clc; close all; clear; 
 
 % 파일 불러오기
+
 f_id = fopen('source_JPARK2019_vfinal.txt', 'r');
+
 format_read = '%2s';
 
 Sample_r = fscanf(f_id,format_read);
