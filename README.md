@@ -85,7 +85,12 @@ for idx_learning = 1:length(LearningPhase_array)
     
 end
 
+
  plot(LearningPhase_array, Avg_bit_1,'b')% ASCII 비트 7 파랑으로 표시
+ 
  hold
+ 
  plot(LearningPhase_array, Avg_bit_2,'--r')% if 비트5 일때 빨강 점선으로 표시
+ 
  bar(LearningPhase_array, Avg_bit_3,'y')% if 비트4 일때 노랑 막대로 표시
+ 
