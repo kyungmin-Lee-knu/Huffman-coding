@@ -103,3 +103,15 @@ end
  
  bar(LearningPhase_array, Avg_bit_3,'y')% if 비트4 일때 노랑 막대로 표시
  
+## 최종 작업공간
+
+![최종수정](https://user-images.githubusercontent.com/58453290/70116268-8a10e780-16a5-11ea-8cb9-2e8aa3d8cfeb.PNG)
+
+## 결과값
+![최종2](https://user-images.githubusercontent.com/58453290/70116232-6baaec00-16a5-11ea-9d54-436c4e541bf3.PNG)
+
+## 결과값 2
+![최종](https://user-images.githubusercontent.com/58453290/70116244-749bbd80-16a5-11ea-91ee-a75ef314c03d.PNG)
+
+## 호프만비트 읽은작업
+![호프만비트 읽은것](https://user-images.githubusercontent.com/58453290/70116261-85e4ca00-16a5-11ea-9709-52b330eb2815.PNG)
